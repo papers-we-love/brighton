@@ -44,7 +44,7 @@ PwL Brighton meetings occur every few months. We are hosted by Hack and Craft at
 ### Contact
 
 Twitter: [@pwlbrighton](https://twitter.com/pwlbrighton)  
-Slack: See the #guatemala-city channel in the official paperswelove team [https://paperswelove.slack.com/messages/brighton](https://paperswelove.slack.com/messages/brighton)
+Slack: See the #brighton channel in the official paperswelove team [https://paperswelove.slack.com/messages/brighton](https://paperswelove.slack.com/messages/brighton)
 
 ### Organizers
 * Harry McCarney [Email](mailto:harry@hackandcraft.com) [Twitter](https://twitter.com/hmccarney) 
