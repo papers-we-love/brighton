@@ -1,4 +1,4 @@
-# PWLGT - Papers we Love Brighton
+# PWL BTN - Papers we Love Brighton
 
 This is the repository for the Brighton chapter of Papers We Love. As a local chapter we follow the Papers We Love [Code of Conduct](https://github.com/papers-we-love/guatemala-city/blob/master/code-of-conduct.md).
 
@@ -43,7 +43,7 @@ PwL Brighton meetings occur every few months. We are hosted by Hack and Craft at
 
 ### Contact
 
-Twitter: [@pwlguatemala](https://twitter.com/pwlbrighton)  
+Twitter: [@pwlbrighton](https://twitter.com/pwlbrighton)  
 Slack: See the #guatemala-city channel in the official paperswelove team [https://paperswelove.slack.com/messages/brighton](https://paperswelove.slack.com/messages/brighton)
 
 ### Organizers
