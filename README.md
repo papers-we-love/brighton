@@ -1,4 +1,4 @@
-# PWL BTN - Papers we Love Brighton
+# Papers we Love Brighton
 
 This is the repository for the Brighton chapter of Papers We Love. As a local chapter we follow the Papers We Love [Code of Conduct](https://github.com/papers-we-love/guatemala-city/blob/master/code-of-conduct.md).
 
@@ -39,7 +39,7 @@ Attend a meeting and introduce yourself
 
 ### When and Where?
 
-PwL Brighton meetings occur every few months. We are hosted by Hack and Craft at their [lab in New England House Birghton](https://goo.gl/maps/ZwG2wqPGbBd4mJCf7)
+PWL Brighton meetings occur every few months. We are hosted by Hack and Craft at their [Lab in New England House Birghton](https://goo.gl/maps/ZwG2wqPGbBd4mJCf7)
 
 ### Contact
 
