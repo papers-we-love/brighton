@@ -39,7 +39,7 @@ Attend a meeting and introduce yourself
 
 ### When and Where?
 
-PWL Brighton meetings occur every few months. We are hosted by Hack and Craft at their [Lab in New England House Birghton](https://goo.gl/maps/ZwG2wqPGbBd4mJCf7)
+PWL Brighton meetings occur every few months. We are hosted by Hack and Craft at their [Lab in New England House Brighton](https://goo.gl/maps/ZwG2wqPGbBd4mJCf7)
 
 ### Contact
 
