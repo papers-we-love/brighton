@@ -14,7 +14,7 @@ We are developers, engineers, academics, and other tech professionals who live i
 
 ### Want to Present?
 
-Please fill out this presentation proposal and we'll get back to you quickly: [https://forms.gle/WbyhNanesBLTNUw87](https://forms.gle/WbyhNanesBLTNUw87)
+Please send us an [Email](mailto:harry@hackandcraft.com) with an overview of your plan and a link to the paper.
 
 ### Requested / Suggested Paper Presentations
 
